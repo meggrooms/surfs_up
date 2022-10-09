@@ -1,6 +1,6 @@
 
 import datetime as dt
-import numpy as mp
+import numpy as np
 import pandas as pd
 
 
@@ -10,6 +10,7 @@ import sqlalchemy
 from sqlalchemy.ext.automap import automap_base
 from sqlalchemy.orm import Session
 from sqlalchemy import create_engine, func
+
 
 
 
@@ -61,5 +62,80 @@ def welcome():
    f"/api/v1.0/tobs <br/>"
    f"/api/v1.0/temp/start/end <br/>"
    )
+
+
+########## PRECIPITATION ROUTE
+
+@app.route("/api/v1.0/precipitation")
+
+# Create the precipitation() function
+def precipitation():
+	# Calculate the date one year ago from the most recent date
+	prev_year = dt.date(2017, 8, 23) - dt.timedelta(days=365)
+
+	# Query: get date and precipitation for prev_year
+	precipitation = session.query(Measurement.date,Measurement.prcp) .\
+		filter(Measurement.date >= prev_year).all()
+		
+	# Create dictionary w/ jsonify()--format results into .JSON
+	precip = {date: prcp for date, prcp in precipitation}
+	return jsonify(precip)
+
+
+
+########## STATIONS ROUTE
+
+@app.route("/api/v1.0/stations")
+def stations():
+    results = session.query(Station.station).all()
+    stations = list(np.ravel(results))
+    return jsonify(stations = stations)
+
+
+
+########## TOBS ROUTE
+
+@app.route("/api/v1.0/tobs")
+def temp_monthly():
+    prev_year = dt.date(2017, 8, 23) - dt.timedelta(days=365)
+    results = session.query(Measurement.tobs).\
+      filter(Measurement.station == 'USC00519281').\
+      filter(Measurement.date >= prev_year).all()
+    temps = list(np.ravel(results))
+    return jsonify(temps=temps)
+
+
+
+########### STATISTICS ROUTE
+
+@app.route("/api/v1.0/temp/<start>")
+@app.route("/api/v1.0/temp/<start>/<end>")
+def stats(start=None, end=None):
+    sel = [func.min(Measurement.tobs), func.avg(Measurement.tobs), func.max(Measurement.tobs)]
+
+    if not end:
+        results = session.query(*sel).\
+            filter(Measurement.date >= start).all()
+        temps = list(np.ravel(results))
+        return jsonify(temps)
+
+    results = session.query(*sel).\
+        filter(Measurement.date >= start).\
+        filter(Measurement.date <= end).all()
+    temps = list(np.ravel(results))
+    return jsonify(temps)
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
