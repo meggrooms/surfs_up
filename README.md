@@ -15,17 +15,9 @@ Use images as support where needed. <BR>
 ### Analysis Overview
 #### subtitle goes here
 <BR>
-
-------An investor wants to learn more about the weather before committing to build a Surf and Ice Cream shop in Oahu, Hawaii. The investor's 
------main concern is the precipitation forcing the shop to close too frequently. To analyze Hawaii's weather data, SQLAlchemy was used to query
-------the SQLite database.  
-  
-  
-An angel investor is interested in financing a Surf & Shake shop in O'ahu, Hawaii. The investor is primarily concerned about the weather (temperature & precipitaion) will 
-  
-  
-<BR>
-#### Tools Used
+ 
+An angel investor is interested in financing a Surf & Shake shop in O'ahu, Hawaii. The investor is primarily concerned that the weather (temperature & precipitaion, specifically) will force the shop to close often, preventing him from recouping his investment. He wants the shop to be year-round as opposed to seasonal. I performed an analysis on the months of June and December to help the investor determine if this investment is a good one.
+<BR><BR>
 
   
 
