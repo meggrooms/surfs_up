@@ -9,15 +9,40 @@ Use images as support where needed. <BR>
 3. **Summary:** Provide a high-level summary of the results and two additional queries that you would perform to gather more weather data for June and December.<BR><BR>
 
 # Surf's Up at Surf & Shake
-## subtitle goes here
+## Advanced Data Storage and Retrieval
 -----
 
 ### Analysis Overview
 #### subtitle goes here
-<BR><BR>
+<BR>
+
+------An investor wants to learn more about the weather before committing to build a Surf and Ice Cream shop in Oahu, Hawaii. The investor's 
+-----main concern is the precipitation forcing the shop to close too frequently. To analyze Hawaii's weather data, SQLAlchemy was used to query
+------the SQLite database.  
+  
+  
+An angel investor is interested in financing a Surf & Shake shop in O'ahu, Hawaii. The investor is primarily concerned about the weather (temperature & precipitaion) will 
+  
+  
+<BR>
 #### Tools Used
 
+  
 
+### Results
+#### subtitle goes here
+  •
+<BR>
+  
+
+  
+## Summary
+#### subtitle goes here
+  
+  
+  
+  
+  
 
   
   
