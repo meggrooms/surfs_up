@@ -1,6 +1,6 @@
-<img src="https://github.com/meggrooms/surfs_up/blob/main/images/surfer_girl.jpeg">
-<BR><BR><BR>
-
+<img src="https://github.com/meggrooms/surfs_up/blob/main/images/surf_shake_logo_sm.png">
+<BR><BR>
+ 
 # Surf's Up at Surf & Shake
 ## Advanced Data Storage and Retrieval
 -----
