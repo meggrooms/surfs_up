@@ -24,9 +24,12 @@ An angel investor is interested in financing a Surf & Shake shop in O'ahu, Hawai
 ### Results
 #### subtitle goes here
 <BR>
+<img src="https://github.com/meggrooms/surfs_up/blob/main/images/June_stats_box_small.png">
+<BR>
+<img src="https://github.com/meggrooms/surfs_up/blob/main/images/Dec_stats_box_small.png">
+<BR>
+<BR>
 
-
-  
 <img src="https://github.com/meggrooms/surfs_up/blob/main/images/June_avg.png">
 <BR>
 <img src="https://github.com/meggrooms/surfs_up/blob/main/images/dec_avg.png">
