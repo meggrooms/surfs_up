@@ -1,8 +1,5 @@
 # surfs_up
 
-<BR>
-requirements:<BR>
-1. **Overview of the analysis:** Explain the purpose of this analysis.<BR>
 2. **Results:** Provide a bulleted list with three major points from 
 the two analysis deliverables. <BR>
 Use images as support where needed. <BR>
@@ -22,27 +19,44 @@ An angel investor is interested in financing a Surf & Shake shop in O'ahu, Hawai
   
 
 ### Results
-#### subtitle goes here
+#### Temperature, precipitation, and sustainability
 <BR>
-The temperature and precipitation difference in O'ahu in June and December is very small. There is a 4°F change in the mean temperature (8°F change in minimum temps, 2°F difference in high temps), and just under .1" difference in precipitation.
+• The temperature and precipitation difference in O'ahu in June and December is very small. There is a 4°F change in the mean temperature (8°F change in minimum temps, 2°F difference in high temps), and just under .1" difference in precipitation.
  <BR>
 <img src="https://github.com/meggrooms/surfs_up/blob/main/images/June_stats_box_small.png">
  
 <BR> 
 <img src="https://github.com/meggrooms/surfs_up/blob/main/images/Dec_stats_box_small.png">
 <BR>
-
+<BR>
 
  <BR>
-The 
+• As you can see in the charts that follow, their is a consistent pattern between June & December, in both temperature and precipitation.
 
 <img src="https://github.com/meggrooms/surfs_up/blob/main/images/June_avg.png">
 <BR>
-<img src="https://github.com/meggrooms/surfs_up/blob/main/images/dec_avg.png">
+<img src="https://github.com/meggrooms/surfs_up/blob/main/images/2_dec_avg.png">
+<BR> 
+<BR>
   
 ## Summary
-#### subtitle goes here
-  
+#### It's time to invest!
+ <BR>
+With such slight difference in weather in summer & winter, the data illustrates to the investor that Surf & Shake will be able to stay open all year without weather worries. Based on the data we have I would advise the investor that Surf & Shake could be a portfolio-boosting investment.
+ 
+
+### Further Analysis Needed
+ <BR>
+
+• Tourism data should be incorporated into the analysis. Is each month more dependent on tourists or locals? This will be helpful in determining if the store will need to shut down during "slow" months.
+  <BR>
+• As many people visit O'ahu to surf, we should consider using surfing-related weather such as high surf & extreme weather trends.
+   <BR> 
+• It would be prudent to compare more months out of the year, especially when it comes to precipitation. I don't feel that two months of data is enough to make a truly informed decision.
+<BR>
+
+
+
   
   
   
