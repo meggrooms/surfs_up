@@ -58,7 +58,7 @@ The temperature and precipitation difference in O'ahu in June and December is ve
 ## Summary
 #### It's time to invest!
  <BR>
-With such a slight difference in weather in summer & winter, the data illustrates to the investor that Surf & Shake will be able to stay open all year without weather worries. Based on the data we have I would advise the investor that Surf & Shake could be a portfolio-boosting investment.
+With such a slight difference in weather in summer & winter, the data illustrates to the investor that Surf & Shake will be able to stay open all year without weather worries. Based on the data we have I would advise the investor that Surf & Shake could be a portfolio-boosting investment, however I would caution him to seek out more data before he makes his final decision.
  
 
 ### Further Analysis Needed
@@ -68,6 +68,6 @@ With such a slight difference in weather in summer & winter, the data illustrate
   <BR>
 • As many people visit O'ahu to surf, we should consider using surfing-related weather such as high surf & extreme weather trends.
    <BR> 
-• It would be prudent to compare more months out of the year, especially when it comes to precipitation. The max precipitation during the year is 4", thus I don't feel that two months of data is enough to make a truly informed decision.
+• The max precipitation for June is 4.5", 6.5" in December. Our limited sampling tells me that perhaps two months of data isn't enough to make a truly informed decision.
 <BR>
 
