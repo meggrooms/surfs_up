@@ -1,10 +1,3 @@
-# surfs_up
-
-2. **Results:** Provide a bulleted list with three major points from 
-the two analysis deliverables. <BR>
-Use images as support where needed. <BR>
-3. **Summary:** Provide a high-level summary of the results and two additional queries that you would perform to gather more weather data for June and December.<BR><BR>
-
 # Surf's Up at Surf & Shake
 ## Advanced Data Storage and Retrieval
 -----
@@ -21,7 +14,18 @@ An angel investor is interested in financing a Surf & Shake shop in O'ahu, Hawai
 ### Results
 #### Temperature, precipitation, and sustainability
 <BR>
-• The temperature and precipitation difference in O'ahu in June and December is very small. There is a 4°F change in the mean temperature (8°F change in minimum temps, 2°F difference in high temps), and just under .1" difference in precipitation.
+The temperature and precipitation difference in O'ahu in June and December is very small. 
+<BR>
+• There is a 4°F change in the mean temperature (8°F change in minimum temps, 2°F difference in high temps), and just under .1" precipitation difference in precipitation when comparing June and December.
+<BR>
+
+• The median temperature for June is 75°F compared to 71°F in December.
+<BR>
+• The median precipitation amount in June is 2/10", compared to 3/10" in December
+<BR>
+
+
+
  <BR>
 <img src="https://github.com/meggrooms/surfs_up/blob/main/images/June_stats_box_small.png">
  
@@ -38,6 +42,10 @@ An angel investor is interested in financing a Surf & Shake shop in O'ahu, Hawai
 <img src="https://github.com/meggrooms/surfs_up/blob/main/images/2_dec_avg.png">
 <BR> 
 <BR>
+<BR>
+• The count of temperature is higher than the count of preceiption in both months.
+
+
   
 ## Summary
 #### It's time to invest!
