@@ -34,7 +34,8 @@ The temperature and precipitation difference in O'ahu in June and December is ve
 
 
  <BR>
-<BR>
+The 
+
 <img src="https://github.com/meggrooms/surfs_up/blob/main/images/June_avg.png">
 <BR>
 <img src="https://github.com/meggrooms/surfs_up/blob/main/images/dec_avg.png">
