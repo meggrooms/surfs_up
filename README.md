@@ -16,17 +16,20 @@ Use images as support where needed. <BR>
 #### subtitle goes here
 <BR>
  
-An angel investor is interested in financing a Surf & Shake shop in O'ahu, Hawaii. The investor is primarily concerned that the weather (temperature & precipitaion, specifically) will force the shop to close often, preventing him from recouping his investment. He wants the shop to be year-round as opposed to seasonal. I performed an analysis on the months of June and December to help the investor determine if this investment is a good one.
+An angel investor is interested in financing a Surf & Shake shop in O'ahu, Hawaii. The investor is primarily concerned that the weather, however, as he wants the shop to be open all year rather than seasonally. Specifically, he wants temperature data for the months of June and December in Oahu, in order to determine if the surf and ice cream shop business is sustainable.
 <BR><BR>
 
   
 
 ### Results
 #### subtitle goes here
-  •
 <BR>
-  
 
+
+  
+<img src="https://github.com/meggrooms/surfs_up/blob/main/images/June_avg.png">
+<BR>
+<img src="https://github.com/meggrooms/surfs_up/blob/main/images/dec_avg.png">
   
 ## Summary
 #### subtitle goes here
