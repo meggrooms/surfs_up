@@ -16,13 +16,15 @@ An angel investor is interested in financing a Surf & Shake shop in O'ahu, Hawai
 #### Temperature, precipitation, and sustainability
 
 The temperature and precipitation difference in O'ahu in June and December is very small. 
+ <BR>
 <BR>
-• There is a 4°F change in the mean temperature (8°F change in minimum temps, 2°F difference in high temps), and just under .1" precipitation difference in precipitation when comparing June and December.
+• There is a 4°F change in the mean temperature (8°F change in minimum temps, 2°F difference in high temps), and just under .1" difference in precipitation when comparing June and December.
 <BR>
 
 • The median temperature for June is 75°F compared to 71°F in December.
 <BR>
-• The median precipitation amount in June is 2/10", compared to 3/10" in December
+
+ • The median precipitation amount in June is 2/10", compared to 3/10" in December
 <BR>
  
 • As you can see in the charts that follow, there is a consistent pattern between June & December, in both temperature and precipitation.
