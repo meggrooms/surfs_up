@@ -7,16 +7,14 @@
 
 ### Analysis Overview
 #### Sustainability of a new surf & ice cream shop
-<BR>
- 
 An angel investor is interested in financing a Surf & Shake shop in O'ahu, Hawaii. The investor is primarily concerned that the weather, however, as he wants the shop to be open all year rather than seasonally. Specifically, he wants temperature data for the months of June and December in Oahu, in order to determine if the surf and ice cream shop business is sustainable.
 <BR>
 
-  
+-----
 
 ### Results
 #### Temperature, precipitation, and sustainability
-<BR>
+
 The temperature and precipitation difference in O'ahu in June and December is very small. 
 <BR>
 • There is a 4°F change in the mean temperature (8°F change in minimum temps, 2°F difference in high temps), and just under .1" precipitation difference in precipitation when comparing June and December.
