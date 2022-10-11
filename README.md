@@ -10,7 +10,7 @@
 <BR>
  
 An angel investor is interested in financing a Surf & Shake shop in O'ahu, Hawaii. The investor is primarily concerned that the weather, however, as he wants the shop to be open all year rather than seasonally. Specifically, he wants temperature data for the months of June and December in Oahu, in order to determine if the surf and ice cream shop business is sustainable.
-<BR><BR>
+<BR>
 
   
 
