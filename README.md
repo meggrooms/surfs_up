@@ -63,11 +63,12 @@ With such a slight difference in weather in summer & winter, the data illustrate
 
 ### Further Analysis Needed
  <BR>
-
 • Tourism data should be incorporated into the analysis. Is each month more dependent on tourists or locals? This will be helpful in determining if the store will need to shut down during "slow" months.
   <BR>
+   
 • As many people visit O'ahu to surf, we should consider using surfing-related weather such as high surf & extreme weather trends.
    <BR> 
+    
 • The max precipitation for June is 4.5", 6.5" in December. Our limited sampling tells me that perhaps two months of data isn't enough to make a truly informed decision.
 <BR>
 
