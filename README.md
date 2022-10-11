@@ -1,3 +1,6 @@
+<img src="https://github.com/meggrooms/surfs_up/blob/main/images/surfer_girl.jpeg">
+<BR><BR><BR>
+
 # Surf's Up at Surf & Shake
 ## Advanced Data Storage and Retrieval
 -----
