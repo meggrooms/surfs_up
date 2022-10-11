@@ -7,7 +7,7 @@
 
 ### Analysis Overview
 #### Sustainability of a new surf & ice cream shop
-An angel investor is interested in financing a Surf & Shake shop in O'ahu, Hawaii. The investor is primarily concerned that the weather, however, as he wants the shop to be open all year rather than seasonally. Specifically, he wants temperature data for the months of June and December in Oahu, in order to determine if the surf and ice cream shop business is sustainable.
+An angel investor is interested in financing a Surf & Shake shop in O'ahu, Hawaii. The investor is primarily concerned that the weather, however, as he wants the shop to be open all year rather than seasonally. Specifically, he wants temperature data for the months of June and December in O'ahu, in order to determine if the surf and ice cream shop business is sustainable.
 <BR>
 
 -----
@@ -68,6 +68,6 @@ With such a slight difference in weather in summer & winter, the data illustrate
   <BR>
 • As many people visit O'ahu to surf, we should consider using surfing-related weather such as high surf & extreme weather trends.
    <BR> 
-• It would be prudent to compare more months out of the year, especially when it comes to precipitation. I don't feel that two months of data is enough to make a truly informed decision.
+• It would be prudent to compare more months out of the year, especially when it comes to precipitation. The max precipitation during the year is 4", thus I don't feel that two months of data is enough to make a truly informed decision.
 <BR>
 
