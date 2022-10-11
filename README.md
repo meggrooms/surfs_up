@@ -58,7 +58,7 @@ The temperature and precipitation difference in O'ahu in June and December is ve
 ## Summary
 #### It's time to invest!
  <BR>
-With such slight difference in weather in summer & winter, the data illustrates to the investor that Surf & Shake will be able to stay open all year without weather worries. Based on the data we have I would advise the investor that Surf & Shake could be a portfolio-boosting investment.
+With such a slight difference in weather in summer & winter, the data illustrates to the investor that Surf & Shake will be able to stay open all year without weather worries. Based on the data we have I would advise the investor that Surf & Shake could be a portfolio-boosting investment.
  
 
 ### Further Analysis Needed
