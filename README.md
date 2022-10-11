@@ -23,6 +23,8 @@ The temperature and precipitation difference in O'ahu in June and December is ve
 <BR>
 • The median precipitation amount in June is 2/10", compared to 3/10" in December
 <BR>
+ 
+• As you can see in the charts that follow, there is a consistent pattern between June & December, in both temperature and precipitation.
 
 
 
@@ -35,7 +37,7 @@ The temperature and precipitation difference in O'ahu in June and December is ve
 <BR>
 
  <BR>
-• As you can see in the charts that follow, their is a consistent pattern between June & December, in both temperature and precipitation.
+
 
 <img src="https://github.com/meggrooms/surfs_up/blob/main/images/June_avg.png">
 <BR>
